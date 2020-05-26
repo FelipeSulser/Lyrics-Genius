@@ -1,5 +1,5 @@
 # Lyrics Genius
-![Lyrics Genius]("LyricsGenius.png")
+![Lyrics Genius](https://github.com/FelipeSulser/Lyrics-Genius/blob/master/LyricsGenius.png)
 
 
 Lyrics Genius is a Python 3 module to generate text based on a topic and a specific *style*.
