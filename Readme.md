@@ -1,10 +1,12 @@
 # Lyrics Genius
-![Lyrics Genius]({{"LyricsGenius.png"}})
+![Lyrics Genius]("LyricsGenius.png")
 
 
-Lyrics Genius is a Python 3 model to generate text based on a topic and a specific *style*.
+Lyrics Genius is a Python 3 module to generate text based on a topic and a specific *style*.
 
 With Lyrics Genius you can create a Deep Residual LSTM Network and train it on any text corpus you wish. 
+
+## Features
 
 Lyrics Genius is built on top of Keras and has the following features:
 
