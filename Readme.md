@@ -1,3 +1,6 @@
+# Note:
+**Work in progress!** The package has not been finished yet. If you wish to use it, I recommend you check the jupyter notebooks provided first.
+
 
 ![Lyrics Genius](https://github.com/FelipeSulser/Lyrics-Genius/blob/master/assets/LyricsGenius.png)
 
